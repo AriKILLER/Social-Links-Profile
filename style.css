@@ -68,4 +68,6 @@ body{
       color: hsl(0, 0%, 8%);
     }
 
-    
+    .social-links p{
+      margin: 8px 0;
+    }
