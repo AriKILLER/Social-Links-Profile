@@ -1,0 +1,51 @@
+body{
+      background-color: hsl(0, 0%, 8%);
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      height: 85vh;
+    }
+
+    .card {
+      background-color: hsl(0, 0%, 12%);
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      text-align: center;
+      width: 300px;
+    }
+
+    .card img {
+      border-radius: 50%;
+      width: 80px;
+      height: 80px;
+      padding: 15px;
+      margin: 0 auto -10px;
+    }
+
+    .card h2 {
+      font-family: 'Figtree';
+      font-weight: 600;
+      font-size: 30px;
+      color: hsl(0, 0%, 100%);
+    }
+
+    .card strong {
+      color: hsl(75, 94%, 57%);
+      font-family: 'Figtree', sans-serif;
+      font-weight: 600;
+      display: block;
+      margin-top: -20px;
+      text-align: center;
+    }
+
+    .card p {
+      color: hsl(0, 0%, 100%);
+      font-family: 'Figtree', sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+    }
+
+    .social-links {
+      margin-top: 20px;
+    }
