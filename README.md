@@ -26,7 +26,7 @@ Users should be able to:
 
 Screenshot of my final result:
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
 ### Links
 
