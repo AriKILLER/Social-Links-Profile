@@ -3,7 +3,7 @@ body{
       align-items: center;
       display: flex;
       justify-content: center;
-      height: 85vh;
+      height: 90vh;
     }
 
     .card {
@@ -49,3 +49,23 @@ body{
     .social-links {
       margin-top: 20px;
     }
+
+    .social-links a{
+      color: hsl(0, 0%, 100%);
+      text-decoration: none;
+      font-family: 'Figtree', sans-serif;
+      font-weight: 700;
+      display: block;
+      background-color: hsl(0, 0%, 20%);
+      border-radius: 5px;
+      padding: 12px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .social-links a:hover{
+      background-color: hsl(75, 94%, 57%);
+      color: hsl(0, 0%, 8%);
+    }
+
+    
