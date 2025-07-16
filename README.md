@@ -31,7 +31,7 @@ Screenshot of my final result:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/AriKILLER/Social-Links-Profile)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://arikiller.github.io/Social-Links-Profile/)
 
 ## My process
 
