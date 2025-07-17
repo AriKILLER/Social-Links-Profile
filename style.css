@@ -48,6 +48,8 @@ body{
 
     .social-links {
       margin-top: 20px;
+      padding: 0;
+      list-style: none;
     }
 
     .social-links a{
@@ -68,6 +70,8 @@ body{
       color: hsl(0, 0%, 8%);
     }
 
-    .social-links p{
+    .social-links li{
+      list-style: none;
       margin: 8px 0;
+      padding: 0;
     }
