@@ -58,6 +58,8 @@ I have noticed improvement in knowing how to organise the structure of the HTML 
 
 And finally made an .css file to make it cleaner and was able to link it to the HTML.
 
+Fixed the semantic structure of the HTML thanks to some advice on the post, changed the links to a list so it more correct.
+
 How the HTML turned out:
 
 ```html
@@ -67,13 +69,13 @@ How the HTML turned out:
   <strong>London, United Kingdom</strong>
   <p>"Front-end developer and avid reader."</p>
 
-  <div class="social-links">
-    <p><a href="https://github.com/" target="_blank">GitHub</a></p>
-    <p><a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a></p>
-    <p><a href="https://www.linkedin.com/" target="_blank">LinkedIn</a></p>
-    <p><a href="https://twitter.com/" target="_blank">Twitter</a></p>
-    <p><a href="https://www.instagram.com/" target="_blank">Instagram</a></p>
-  </div>
+  <ul class="social-links">
+    <li><a href="https://github.com/" target="_blank">GitHub</a></li>
+    <li><a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a></li>
+    <li><a href="https://www.linkedin.com/" target="_blank">LinkedIn</a></li>
+    <li><a href="https://twitter.com/" target="_blank">Twitter</a></li>
+    <li><a href="https://www.instagram.com/" target="_blank">Instagram</a></li>
+  </ul>
 </div>
 ```
 
